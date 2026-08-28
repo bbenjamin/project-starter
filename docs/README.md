@@ -161,6 +161,11 @@ The `.` means “create the Expo app in the current folder.”
 
 If you are asked whether packages may be installed, enter `y`.
 
+If it asks what SDK version you want to install, choose `"For learning with Expo Go (SDK 54)"` if available, 
+otherwise the most recent.
+
+It should ask you ` You are creating a project inside of an existing Git repository. Skip initializing a new git repository?` - say `Y` for yes.
+
 > [!IMPORTANT]
 > Run this command only once. Do not run it again after you have started building your prototype unless your instructor specifically tells you to do so.
 
